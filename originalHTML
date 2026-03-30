@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <section>
+    <nav>
+      <img src="./asset/FES.svg"
+      <ul><li><a href="#About" >About</a></li></ul>
+      <ul><li><a href="#Discord">Discord</a></li></ul>
+      <ul><li><a href="#Contact">Contact</a></li></ul>
+    </nav>
+    <header>
+      <div>
+        <h1>Best place to learn Frontend</h1>
+        <p>Go from absolute biginner to pro with a simplified process</p>
+      <button>Start Now!</button>
+      </div>
+      <figure><img src="./asset/laptop.png" alt="Frontend Simplified " 
+      </figure>
+    </header>
+  </section>
+
+  <main>
+   
+<h2>About</h2>
+<div>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo ad provident odio praesentium cupiditate perspiciatis, beatae nihil quibusdam! Porro sed et quis vel ad. Quis iusto nemo cumque! Maiores, natus!</p>
+</div>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo ad provident odio praesentium cupiditate perspiciatis, beatae nihil quibusdam! Porro sed et quis vel ad. Quis iusto nemo cumque! Maiores, natus!</p>
+</div>
+<figure><img src="./asset/about.jpg"</figure>   
+
+<h2>Discord</h2>
+<figure><img src="./asset/discord.png" alt=""></figure>
+<div><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni porro fugiat sed quis quasi provident, neque non doloribus labore ab nostrum. Sapiente dolores, adipisci debitis sequi hic optio quisquam itaque!</p></div>
+<div><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni porro fugiat sed quis quasi provident, neque non doloribus labore ab nostrum. Sapiente dolores, adipisci debitis sequi hic optio quisquam itaque!</p></div>
+  
+<section id="Contact"
+<h2>Contact</h2>
+<form></form> action=""
+<label>Email</label>
+<input> type="text" placeholder="jane@example.com" </main>
+<label>
+  <input type="text" placeholder="jane@example.com"
+</label>
+</body>
+</html>
